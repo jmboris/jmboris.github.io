@@ -1,3 +1,17 @@
+section #sapn .credits {
+    font-size: 11px;
+    font-family: 'OpenSansRegular', "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-weight: normal;
+    color: #696969;
+    margin-top: -10px
+    float: left 
+    
+}
+
+
+
+
+
 
 
 The main objective of this repository is to publish **VOIDLINUX** xsrc templates aswell other scripts.
@@ -14,7 +28,7 @@ Kernel 6.12.8 with pacth zen , template for VoidLinux
 
 [REPO](https://github.com/jmboris/voidlinux-kernel-zen-6.12.8)
 
-<span id="title" class="credits right">January 2025</span>
+<span class="credits right">January 2025</span>
 * * *
 
 ## voidlinux kernel zen-6.12.6 
