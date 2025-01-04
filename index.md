@@ -14,7 +14,6 @@ Kernel 6.12.8 with pacth zen , template for VoidLinux
 
 [REPO](https://github.com/jmboris/voidlinux-kernel-zen-6.12.8)
 
-
 <div id="title"><span class="credits right">January 2025</span></div>
 * * *
 
