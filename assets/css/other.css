@@ -3,5 +3,6 @@ section #span1  {
     font-family: 'OpenSansRegular', "Helvetica Neue", Helvetica, Arial, sans-serif;
     font-weight: normal;
     color: #696969;
+    margin-top: -20px;
     float: right     
 }
