@@ -11,6 +11,8 @@ The main objective of this repository is to publish **VOIDLINUX** xsrc templates
 
 Kernel 6.12.8 with pacth zen , template for VoidLinux
 
+[REPO](https://github.com/jmboris/voidlinux-kernel-zen-6.12.8)
+
 * * *
 
 ## voidlinux kernel zen-6.12.6 
@@ -20,6 +22,20 @@ Kernel 6.12.6 with pacth zen , template for VoidLinux
 [REPO](https://github.com/jmboris/voidlinux-kernel-zen-6.12.6)
 
 * * *
+
+Voidlinux sirikali templates
+
+Template for VoidLinux to install sirikali
+
+SiriKali is a Qt/C++ GUI application that manages ecryptfs, cryfs, encfs, gocryptfs, fscrypt and securefs based encrypted folders. SiriKali can also connect to ssh servers using sshf
+
+[REPO](https://github.com/jmboris/Voidlinux-sirikali-templates)
+
+[https://mhogomchungu.github.io/sirikali/](https://mhogomchungu.github.io/sirikali/)
+
+
+* * *
+
 
 ## fastfetch
 
