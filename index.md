@@ -5,6 +5,7 @@ The main objective of this repository is to publish **VOIDLINUX** xsrc templates
 [VoidLinux](https://voidlinux.org/).
 
 * * *
+* * *
 
 
 ## voidlinux kernel zen-6.12.8
@@ -23,7 +24,7 @@ Kernel 6.12.6 with pacth zen , template for VoidLinux
 
 * * *
 
-Voidlinux sirikali templates
+## Voidlinux sirikali templates
 
 Template for VoidLinux to install sirikali
 
