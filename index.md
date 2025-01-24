@@ -6,6 +6,24 @@ The main objective of this repository is to publish **VOIDLINUX** xsrc templates
 * * *
 * * *
 
+# voidlinux personal repo
+
+If you want to add this repo to your system do the following
+
+```
+echo 'repository=http://voidrepo.duckdns.org)' > /etc/xbps.d/juanma.conf
+xbps-install -S <pkg_name>
+```
+
+Otherwise you can explore the repo [http://voidrepo.duckdns.org](http://voidrepo.duckdns.org/) and download and install the package mannually.
+
+If you prefer to download the templates and compile yourself the files you can check the links below
+
+* * *
+* * *
+
+# XSRC TEMPLATES
+* * *
 
 ## voidlinux kernel zen-6.12.8
 
