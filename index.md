@@ -1,5 +1,5 @@
 
-The main objective of this repository is to publish **VOIDLINUX** xsrc templates aswell other scripts.
+The main objective of this repository is to publish **VOIDLINUX** packages , using my personal repo that can be added to your system or explore it using your web browser , also publish xsrc templates aswell other scripts.
 
 [VoidLinux](https://voidlinux.org/).
 
@@ -27,7 +27,7 @@ If you prefer to download the templates and compile yourself the files you can c
 
 ## voidlinux kernel zen-6.12.8
 
-Kernel 6.12.8 with pacth zen , template for VoidLinux
+Kernel 6.12.8 with patch zen , template for VoidLinux
 
 [REPO](https://github.com/jmboris/voidlinux-kernel-zen-6.12.8)
 
@@ -37,7 +37,7 @@ Kernel 6.12.8 with pacth zen , template for VoidLinux
 
 ## voidlinux kernel zen-6.12.6 
 
-Kernel 6.12.6 with pacth zen , template for VoidLinux
+Kernel 6.12.6 with patch zen , template for VoidLinux
 
 [REPO](https://github.com/jmboris/voidlinux-kernel-zen-6.12.6)
 
