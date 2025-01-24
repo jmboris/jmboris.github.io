@@ -11,7 +11,7 @@ The main objective of this repository is to publish **VOIDLINUX** packages , usi
 If you want to add this repo to your system do the following
 
 ```
-echo 'repository=http://voidrepo.duckdns.org' > /etc/xbps.d/juanma.conf
+# echo 'repository=http://voidrepo.duckdns.org' > /etc/xbps.d/juanma.conf
 xbps-install -S <pkg_name>
 ```
 
