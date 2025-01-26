@@ -19,10 +19,23 @@ Otherwise you can explore the repo [http://voidrepo.duckdns.org](http://voidrepo
 
 If you prefer to download the templates and compile yourself the files you can check the links below
 
+<span id="span1" >January 2025</span>
+
 * * *
 * * *
 
 # XSRC TEMPLATES
+
+* * *
+
+## voidlinux kernel zen-6.13
+
+Kernel 6.13 with patch zen , template for VoidLinux
+
+[REPO](https://github.com/jmboris/voidlinux-kernel-zen-6.13)
+
+<span id="span1" >January 2025</span>
+
 * * *
 
 ## voidlinux kernel zen-6.12.8
