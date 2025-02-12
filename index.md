@@ -28,6 +28,16 @@ If you prefer to download the templates and compile yourself the files you can c
 
 * * *
 
+## PipeWire 1.3.81
+
+PipeWire 1.3.81 , template for VoidLinux
+
+[REPO](https://github.com/jmboris/Pipewire-1.3.81)
+
+<span id="span1" >February 2025</span>
+
+* * *
+
 ## voidlinux kernel zen-6.13
 
 Kernel 6.13 with patch zen , template for VoidLinux
