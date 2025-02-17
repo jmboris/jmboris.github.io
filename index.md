@@ -28,6 +28,22 @@ If you prefer to download the templates and compile yourself the files you can c
 
 * * *
 
+## Voidlinux sirikali templates
+
+Latest version 1.8.1
+
+Template for VoidLinux to install sirikali
+
+SiriKali is a Qt/C++ GUI application that manages ecryptfs, cryfs, encfs, gocryptfs, fscrypt and securefs based encrypted folders. SiriKali can also connect to ssh servers using sshf
+
+[REPO](https://github.com/jmboris/Voidlinux-sirikali-templates)
+
+[https://mhogomchungu.github.io/sirikali/](https://mhogomchungu.github.io/sirikali/)
+
+<span id="span1" >February 2025</span>
+
+* * *
+
 ## PipeWire 1.3.81
 
 PipeWire 1.3.81 , template for VoidLinux
@@ -68,19 +84,7 @@ Kernel 6.12.6 with patch zen , template for VoidLinux
 
 * * *
 
-## Voidlinux sirikali templates
 
-Template for VoidLinux to install sirikali
-
-SiriKali is a Qt/C++ GUI application that manages ecryptfs, cryfs, encfs, gocryptfs, fscrypt and securefs based encrypted folders. SiriKali can also connect to ssh servers using sshf
-
-[REPO](https://github.com/jmboris/Voidlinux-sirikali-templates)
-
-[https://mhogomchungu.github.io/sirikali/](https://mhogomchungu.github.io/sirikali/)
-
-<span id="span1" >December 2024</span>
-
-* * *
 
 
 ## fastfetch
