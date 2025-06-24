@@ -35,7 +35,7 @@ Template for VoidLinux to install dysk
 
 A linux utility to get information on filesystems, like df but better
 
-[REPO](https://github.com/jmboris/Voidlinux-sirikali-templates)
+[REPO](https://github.com/jmboris/Voidlinux-dysk)
 
 [https://github.com/Canop/dysk?tab=readme-ov-file](https://github.com/Canop/dysk?tab=readme-ov-file)
 
