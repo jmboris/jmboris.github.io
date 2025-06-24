@@ -29,7 +29,7 @@ If you prefer to download the templates and compile yourself the files you can c
 * * *
 ## Voidlinux dysk template
 
-Latest version 1.8.1
+Latest version 2.10.1
 
 Template for VoidLinux to install dysk
 
