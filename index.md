@@ -37,9 +37,9 @@ A linux utility to get information on filesystems, like df but better
 
 [REPO](https://github.com/jmboris/Voidlinux-sirikali-templates)
 
-[https://mhogomchungu.github.io/sirikali/](https://mhogomchungu.github.io/sirikali/)
+[https://github.com/Canop/dysk?tab=readme-ov-file](https://github.com/Canop/dysk?tab=readme-ov-file)
 
-<span id="span1" >February 2025</span>
+<span id="span1" >June 2025</span>
 
 * * *
 
@@ -53,9 +53,9 @@ SiriKali is a Qt/C++ GUI application that manages ecryptfs, cryfs, encfs, gocryp
 
 [REPO](https://github.com/jmboris/Voidlinux-sirikali-templates)
 
-[https://github.com/Canop/dysk?tab=readme-ov-file](https://github.com/Canop/dysk?tab=readme-ov-file)
+[https://mhogomchungu.github.io/sirikali/](https://mhogomchungu.github.io/sirikali/)
 
-<span id="span1" >June 2025</span>
+<span id="span1" >February 2025</span>
 
 * * *
 
