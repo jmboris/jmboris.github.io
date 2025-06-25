@@ -1,5 +1,5 @@
 
-The main objective of this repository is to publish **VOIDLINUX** packages , using my personal repo that can be added to your system or explore it using your web browser , also publish xsrc templates aswell other scripts.
+The main objective of this repository is to publish **VOIDLINUX** packages using my personal repo that can be added to your system or explore it using your web browser , also publish xsrc templates as well as other scripts.
 
 [VoidLinux](https://voidlinux.org/).
 
