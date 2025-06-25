@@ -49,7 +49,7 @@ Developer:
 
 ## Voidlinux sirikali templates
 
-Latest version 1.8.1
+Latest version 1.8.2
 
 Template for VoidLinux to install sirikali
 
@@ -57,6 +57,8 @@ SiriKali is a Qt/C++ GUI application that manages ecryptfs, cryfs, encfs, gocryp
 
 [REPO](https://github.com/jmboris/Voidlinux-sirikali-templates)
 
+
+Developer 
 [https://mhogomchungu.github.io/sirikali/](https://mhogomchungu.github.io/sirikali/)
 
 <span id="span1" >February 2025</span>
