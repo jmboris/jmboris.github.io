@@ -26,7 +26,21 @@ If you prefer to download the templates and compile yourself the files you can c
 
 # XSRC TEMPLATES
 
+
 * * *
+
+## PipeWire 1.4.6
+
+PipeWire 1.4.6 , template for VoidLinux
+
+[Github REPO](https://github.com/jmboris/Pipewire)
+
+Explore realeses.
+
+<span id="span1" >June 2025</span>
+
+* * *
+
 ## Voidlinux dysk template
 
 Latest version 2.10.1
