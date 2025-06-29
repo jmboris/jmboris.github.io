@@ -79,16 +79,6 @@ Developer
 
 * * *
 
-## PipeWire 1.3.81
-
-PipeWire 1.3.81 , template for VoidLinux
-
-[REPO](https://github.com/jmboris/Pipewire-1.3.81)
-
-<span id="span1" >February 2025</span>
-
-* * *
-
 ## voidlinux kernel zen-6.13
 
 Kernel 6.13 with patch zen , template for VoidLinux
@@ -131,6 +121,8 @@ fastfetch config file for Void Linux
 [REPO](https://github.com/jmboris/fastfetch)
 
 <span id="span1" >December 2024</span>
+
+
 
 * * *
 
