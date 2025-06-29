@@ -116,7 +116,8 @@ Kernel 6.12.6 with patch zen , template for VoidLinux
 
 fastfetch config file for Void Linux
 
-![Captura de pantalla_20241215_122731](https://github.com/user-attachments/assets/fa46cd85-a21a-4af9-aa4a-c6b8bc2a6111)
+![2025-06-29_13-13](https://github.com/user-attachments/assets/2875f6b9-0b1c-4e0b-8ffe-5a38a6dbdf01)
+
 
 [REPO](https://github.com/jmboris/fastfetch)
 
