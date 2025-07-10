@@ -30,9 +30,9 @@ If you prefer to download the templates and compile yourself the files you can c
 
 ## git 2.50.1 
 
-git 2.50.1 - binary xbps
+Voidlinux git 2.50.1 - binary xbps
 
-[VoidLinux](https://voidlinux.org/). Binaries repo
+[http://voidrepo.duckdns.org](http://voidrepo.duckdns.org/)  |  Binaries repo
 
 <span id="span1" >July 2025</span>
 
