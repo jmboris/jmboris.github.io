@@ -84,7 +84,7 @@ PipeWire 1.4.6 , template for VoidLinux
 
 [Github REPO](https://github.com/jmboris/Pipewire)
 
-Explore realeses.
+Explore realeses
 
 [http://voidrepo.duckdns.org](http://voidrepo.duckdns.org/)  |  Binaries repo
 
