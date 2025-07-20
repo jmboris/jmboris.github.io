@@ -36,10 +36,7 @@ Recall your SSH sessions (also search your SSH config file)
 
 [Github REPO](https://github.com/jmboris/Pipewire)
 
-Explore realeses.
-
 [http://voidrepo.duckdns.org](http://voidrepo.duckdns.org/)  |  Binaries repo
-
 
 Developer
 [https://github.com/byawitz/ggh](https://github.com/byawitz/ggh)
