@@ -28,11 +28,53 @@ If you prefer to download the templates and compile yourself the files you can c
 
 * * *
 
+## ggh 
+
+ggh 0.1.4 , template for VoidLinux
+
+Recall your SSH sessions (also search your SSH config file)
+
+[Github REPO](https://github.com/jmboris/Pipewire)
+
+Explore realeses.
+
+[http://voidrepo.duckdns.org](http://voidrepo.duckdns.org/)  |  Binaries repo
+
+
+Developer
+[https://github.com/byawitz/ggh](https://github.com/byawitz/ggh)
+
+<span id="span1" >July 2025</span>
+
+* * *
+
+## tracker
+
+tracker 0.1.4 , template for VoidLinux
+
+Terminal-based real-time satellite tracking and orbit prediction
+
+[Github REPO](https://github.com/jmboris/voidlinux-tracker-template)
+
+[http://voidrepo.duckdns.org](http://voidrepo.duckdns.org/)  |  Binaries repo
+
+Developer 
+[https://github.com/ShenMian/tracker/](https://github.com/ShenMian/tracker)
+
+
+<span id="span1" >July 2025</span>
+
+* * *
+
+
+
+
 ## git 2.50.1 
 
 Voidlinux git 2.50.1 - binary xbps
 
 [http://voidrepo.duckdns.org](http://voidrepo.duckdns.org/)  |  Binaries repo
+
 
 <span id="span1" >July 2025</span>
 
@@ -46,7 +88,7 @@ PipeWire 1.4.6 , template for VoidLinux
 [Github REPO](https://github.com/jmboris/Pipewire)
 
 Explore realeses.
-
+[http://voidrepo.duckdns.org](http://voidrepo.duckdns.org/)  |  Binaries repo
 <span id="span1" >June 2025</span>
 
 * * *
@@ -63,6 +105,7 @@ A linux utility to get information on filesystems, like df but better
 
 [REPO](https://github.com/jmboris/Voidlinux-dysk)
 
+[http://voidrepo.duckdns.org](http://voidrepo.duckdns.org/)  |  Binaries repo
 
 Developer:
 [https://github.com/Canop/dysk?tab=readme-ov-file](https://github.com/Canop/dysk?tab=readme-ov-file)
@@ -81,9 +124,10 @@ SiriKali is a Qt/C++ GUI application that manages ecryptfs, cryfs, encfs, gocryp
 
 [REPO](https://github.com/jmboris/Voidlinux-sirikali-templates)
 
-
 Developer 
 [https://mhogomchungu.github.io/sirikali/](https://mhogomchungu.github.io/sirikali/)
+
+[http://voidrepo.duckdns.org](http://voidrepo.duckdns.org/)  |  Binaries repo
 
 <span id="span1" >February 2025</span>
 
@@ -95,6 +139,8 @@ Kernel 6.13 with patch zen , template for VoidLinux
 
 [REPO](https://github.com/jmboris/voidlinux-kernel-zen-6.13)
 
+[http://voidrepo.duckdns.org](http://voidrepo.duckdns.org/)  |  Binaries repo
+
 <span id="span1" >January 2025</span>
 
 * * *
@@ -105,6 +151,8 @@ Kernel 6.12.8 with patch zen , template for VoidLinux
 
 [REPO](https://github.com/jmboris/voidlinux-kernel-zen-6.12.8)
 
+[http://voidrepo.duckdns.org](http://voidrepo.duckdns.org/)  |  Binaries repo
+
 <span id="span1" >January 2025</span>
 
 * * *
@@ -114,6 +162,8 @@ Kernel 6.12.8 with patch zen , template for VoidLinux
 Kernel 6.12.6 with patch zen , template for VoidLinux
 
 [REPO](https://github.com/jmboris/voidlinux-kernel-zen-6.12.6)
+
+[http://voidrepo.duckdns.org](http://voidrepo.duckdns.org/)  |  Binaries repo
 
 <span id="span1" >January 2025</span>
 
