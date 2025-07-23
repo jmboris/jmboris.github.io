@@ -28,6 +28,23 @@ If you prefer to download the templates and compile yourself the files you can c
 
 * * *
 
+## television 
+
+television 0.12.5 A cross-platform, fast and extensible general purpose fuzzy finder
+
+![television](./assets/images/tv-transparent.png)
+
+[Github REPO](https://github.com/jmboris/television)
+
+[http://voidrepo.duckdns.org](http://voidrepo.duckdns.org/)  |  Binaries repo
+
+Developer
+[https://github.com/alexpasmantier/television](https://github.com/alexpasmantier/television)
+
+<span id="span1" >July 2025</span>
+
+* * *
+
 ## ggh 
 
 ggh 0.1.4 , template for VoidLinux
@@ -63,9 +80,6 @@ Developer
 
 * * *
 
-
-
-
 ## git 2.50.1 
 
 Voidlinux git 2.50.1 - binary xbps
@@ -76,7 +90,6 @@ Voidlinux git 2.50.1 - binary xbps
 <span id="span1" >July 2025</span>
 
 * * *
-
 
 ## PipeWire 1.4.6
 
@@ -175,7 +188,7 @@ Kernel 6.12.6 with patch zen , template for VoidLinux
 
 fastfetch config file for Void Linux
 
-![2025-06-29_13-13](./2025-06-29_13-13.png)
+![fastfectch VOID](./2025-06-29_13-13.png)
 
 [REPO](https://github.com/jmboris/fastfetch)
 
