@@ -53,7 +53,7 @@ Recall your SSH sessions (also search your SSH config file)
 
 ![ggh](./assets/images/ggh.png)
 
-[Github REPO](https://github.com/jmboris/Pipewire)
+[Github REPO](https://github.com/jmboris/voidlinux-ggh-template)
 
 [http://voidrepo.duckdns.org](http://voidrepo.duckdns.org/)  |  Binaries repo
 
@@ -69,6 +69,8 @@ Developer
 tracker 0.1.4 , template for VoidLinux
 
 Terminal-based real-time satellite tracking and orbit prediction
+
+![tracker](./assets/images/tracker.png)
 
 [Github REPO](https://github.com/jmboris/voidlinux-tracker-template)
 
