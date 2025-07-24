@@ -5,17 +5,24 @@ The main objective of this repository is to publish **VOIDLINUX** packages using
 
 * * *
 * * *
+## big news !
 
+I get my own domain and get SSL certificate for the repo.
+
+<span id="span1" >July 2025</span>
+
+* * *
+* * * 
 # VOIDLINUX PERSONAL REPO
 
 If you want to add this repo to your system do the following
 
 ```
-# echo 'repository=http://voidrepo.duckdns.org' > /etc/xbps.d/jmboris.conf
+# echo 'repository=https://voidrepo.linuxnauta.com' > /etc/xbps.d/jmboris.conf
 xbps-install -S <pkg_name>
 ```
 
-Otherwise you can explore the repo [http://voidrepo.duckdns.org](http://voidrepo.duckdns.org/) and download and install the package mannually.
+Otherwise you can explore the repo [https://voidrepo.linuxnauta.com](https://voidrepo.linuxnauta.com/) and download and install the package mannually.
 
 If you prefer to download the templates and compile yourself the files you can check the links below
 
@@ -36,7 +43,7 @@ television 0.12.5 A cross-platform, fast and extensible general purpose fuzzy fi
 
 [Github REPO](https://github.com/jmboris/television)
 
-[http://voidrepo.duckdns.org](http://voidrepo.duckdns.org/)  |  Binaries repo
+[https://voidrepo.linuxnauta.com](https://voidrepo.linuxnauta.com/)  |  Binaries repo
 
 Developer
 [https://github.com/alexpasmantier/television](https://github.com/alexpasmantier/television)
@@ -55,7 +62,7 @@ Recall your SSH sessions (also search your SSH config file)
 
 [Github REPO](https://github.com/jmboris/voidlinux-ggh-template)
 
-[http://voidrepo.duckdns.org](http://voidrepo.duckdns.org/)  |  Binaries repo
+[https://voidrepo.linuxnauta.com](https://voidrepo.linuxnauta.com/)  |  Binaries repo
 
 Developer
 [https://github.com/byawitz/ggh](https://github.com/byawitz/ggh)
@@ -74,7 +81,7 @@ Terminal-based real-time satellite tracking and orbit prediction
 
 [Github REPO](https://github.com/jmboris/voidlinux-tracker-template)
 
-[http://voidrepo.duckdns.org](http://voidrepo.duckdns.org/)  |  Binaries repo
+[https://voidrepo.linuxnauta.com](https://voidrepo.linuxnauta.com/)  |  Binaries repo
 
 Developer 
 [https://github.com/ShenMian/tracker/](https://github.com/ShenMian/tracker)
@@ -88,7 +95,7 @@ Developer
 
 Voidlinux git 2.50.1 - binary xbps
 
-[http://voidrepo.duckdns.org](http://voidrepo.duckdns.org/)  |  Binaries repo
+[https://voidrepo.linuxnauta.com](https://voidrepo.linuxnauta.com/)  |  Binaries repo
 
 
 <span id="span1" >July 2025</span>
@@ -103,7 +110,7 @@ PipeWire 1.4.6 , template for VoidLinux
 
 Explore realeses
 
-[http://voidrepo.duckdns.org](http://voidrepo.duckdns.org/)  |  Binaries repo
+[https://voidrepo.linuxnauta.com](https://voidrepo.linuxnauta.com/)  |  Binaries repo
 
 <span id="span1" >June 2025</span>
 
@@ -121,7 +128,7 @@ A linux utility to get information on filesystems, like df but better
 
 [REPO](https://github.com/jmboris/Voidlinux-dysk)
 
-[http://voidrepo.duckdns.org](http://voidrepo.duckdns.org/)  |  Binaries repo
+[https://voidrepo.linuxnauta.com](https://voidrepo.linuxnauta.com/)  |  Binaries repo
 
 Developer:
 [https://github.com/Canop/dysk?tab=readme-ov-file](https://github.com/Canop/dysk?tab=readme-ov-file)
@@ -143,7 +150,7 @@ SiriKali is a Qt/C++ GUI application that manages ecryptfs, cryfs, encfs, gocryp
 Developer 
 [https://mhogomchungu.github.io/sirikali/](https://mhogomchungu.github.io/sirikali/)
 
-[http://voidrepo.duckdns.org](http://voidrepo.duckdns.org/)  |  Binaries repo
+[https://voidrepo.linuxnauta.com](https://voidrepo.linuxnauta.com/)  |  Binaries repo
 
 <span id="span1" >February 2025</span>
 
@@ -155,7 +162,7 @@ Kernel 6.13 with patch zen , template for VoidLinux
 
 [REPO](https://github.com/jmboris/voidlinux-kernel-zen-6.13)
 
-[http://voidrepo.duckdns.org](http://voidrepo.duckdns.org/)  |  Binaries repo
+[https://voidrepo.linuxnauta.com](https://voidrepo.linuxnauta.com/)  |  Binaries repo
 
 <span id="span1" >January 2025</span>
 
@@ -167,7 +174,7 @@ Kernel 6.12.8 with patch zen , template for VoidLinux
 
 [REPO](https://github.com/jmboris/voidlinux-kernel-zen-6.12.8)
 
-[http://voidrepo.duckdns.org](http://voidrepo.duckdns.org/)  |  Binaries repo
+[https://voidrepo.linuxnauta.com](https://voidrepo.linuxnauta.com/)  |  Binaries repo
 
 <span id="span1" >January 2025</span>
 
@@ -179,7 +186,7 @@ Kernel 6.12.6 with patch zen , template for VoidLinux
 
 [REPO](https://github.com/jmboris/voidlinux-kernel-zen-6.12.6)
 
-[http://voidrepo.duckdns.org](http://voidrepo.duckdns.org/)  |  Binaries repo
+[https://voidrepo.linuxnauta.com](https://voidrepo.linuxnauta.com/)  |  Binaries repo
 
 <span id="span1" >January 2025</span>
 

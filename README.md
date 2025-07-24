@@ -15,10 +15,10 @@ The main objective of this repository is to publish **VOIDLINUX** packages using
 If you want to add this repo to your system do the following
 
 ```
-# echo 'repository=http://voidrepo.duckdns.org' > /etc/xbps.d/jmboris.conf
+# echo 'repository=https://voidrepo.linuxnauta.com' > /etc/xbps.d/jmboris.conf
 xbps-install -S <pkg_name>
 ```
 
-Otherwise you can explore the repo [http://voidrepo.duckdns.org](http://voidrepo.duckdns.org/) and download and install the package mannually.
+Otherwise you can explore the repo [https://voidrepo.linuxnauta.com](https://voidrepo.linuxnauta.com/) and download and install the package mannually.
 
-If you prefer to download the templates and compile yourself the files you can check the links below
+If you prefer to download the templates and compile yourself, you can explore the repositories in github https://github.com/jmboris?tab=repositories
