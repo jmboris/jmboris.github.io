@@ -35,6 +35,65 @@ If you prefer to download the templates and compile yourself the files you can c
 
 * * *
 
+
+## PipeWire 1.4.7
+
+PipeWire 1.4.7 , template for VoidLinux
+
+![PipeWire](./assets/images/pipewire-1.4.7.png)
+
+[Github REPO](https://github.com/jmboris/Pipewire)
+
+
+
+Explore realeses
+
+[https://voidrepo.linuxnauta.com](https://voidrepo.linuxnauta.com/)  |  Binaries repo
+
+
+[!NOTE]
+To compile pipewire you need some soft links in the srcpkgs folder pointing to pipewirefolder
+
+```
+srcpkgs
+├── alsa-pipewire -> pipewire/
+├── gstreamer1-pipewire -> pipewire/
+├── libjack-pipewire -> pipewire
+├── libpipewire -> pipewire
+├── libspa-alsa -> pipewire
+├── libspa-audioconvert -> pipewire
+├── libspa-audiomixer -> pipewire
+├── libspa-bluetooth -> pipewire
+├── libspa-control -> pipewire
+├── libspa-jack -> pipewire
+├── libspa-v4l2 -> pipewire
+├── libspa-videoconvert -> pipewire
+├── libspa-vulkan -> pipewire
+├── pipewire
+│   ├── INSTALL.msg
+│   ├── files
+│   │   ├── 20-pipewire-pulse.conf
+│   │   ├── README.voidlinux
+│   │   ├── pipewire
+│   │   │   ├── control
+│   │   │   │   └── t
+│   │   │   └── run
+│   │   ├── pipewire-pulse.desktop
+│   │   └── pipewire.desktop
+│   ├── patches
+│   │   └── fix-neon-detection.patch
+│   └── template
+├── pipewire-devel -> pipewire
+├── pipewire-doc -> pipewire
+
+```
+
+<span id="span1" >June 2025</span>
+
+* * *
+
+
+
 ## media-downloader
 
 version 5.4.1
