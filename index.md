@@ -35,6 +35,45 @@ If you prefer to download the templates and compile yourself the files you can c
 
 * * *
 
+## media-downloader
+
+version 5.4.1
+
+Media Downloader is a Qt/C++ front end to yt-dlp, youtube-dl, gallery-dl, lux, you-get, svtplay-dl, aria2c, wget and safari books..
+
+![media-downloader](./assets/images/media-downloader.png)
+
+[Github REPO](https://github.com/jmboris/media-downloader)
+
+[https://voidrepo.linuxnauta.com](https://voidrepo.linuxnauta.com/)  |  Binaries repo
+
+Developer
+[https://github.com/mhogomchungu/media-downloader](https://github.com/mhogomchungu/media-downloader)
+
+<span id="span1" >July 2025</span>
+
+* * *
+
+## alsa-scarlett-gui
+
+version 0.5.1
+
+alsa-scarlett-gui is a Gtk4 GUI for the ALSA controls presented by the Linux kernel Focusrite USB Drivers..
+
+![alsa-scarlett-gui](./assets/images/alsa-scarlett-gui.png)
+
+[Github REPO](https://github.com/jmboris/alsa-scarlett-gui)
+
+[https://voidrepo.linuxnauta.com](https://voidrepo.linuxnauta.com/)  |  Binaries repo
+
+Developer
+[https://github.com/geoffreybennett/alsa-scarlett-gui](https://github.com/geoffreybennett/alsa-scarlett-gui)
+
+<span id="span1" >July 2025</span>
+
+* * *
+
+
 ## television 
 
 television 0.12.5 A cross-platform, fast and extensible general purpose fuzzy finder
