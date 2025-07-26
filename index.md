@@ -3,13 +3,6 @@ The main objective of this repository is to publish **VOIDLINUX** packages using
 
 [VoidLinux](https://voidlinux.org/).
 
-* * *
-* * *
-## big news !
-
-I get my own domain and get SSL certificate for the repo.
-
-<span id="span1" >July 2025</span>
 
 * * *
 * * * 
