@@ -96,6 +96,8 @@ srcpkgs
 
 ## media-downloader
 
+Template for VoidLinux
+
 version 5.4.1
 
 Media Downloader is a Qt/C++ front end to yt-dlp, youtube-dl, gallery-dl, lux, you-get, svtplay-dl, aria2c, wget and safari books..
@@ -114,6 +116,8 @@ Developer
 * * *
 
 ## alsa-scarlett-gui
+
+Template for VoidLinux
 
 version 0.5.1
 
@@ -135,6 +139,8 @@ Developer
 
 ## television 
 
+Template for VoidLinux
+
 television 0.12.5 A cross-platform, fast and extensible general purpose fuzzy finder
 
 ![television](./assets/images/tv-transparent.png)
@@ -152,7 +158,9 @@ Developer
 
 ## ggh 
 
-ggh 0.1.4 , template for VoidLinux
+Template for VoidLinux
+
+ggh 0.1.4 
 
 Recall your SSH sessions (also search your SSH config file)
 
@@ -289,9 +297,6 @@ Kernel 6.12.6 with patch zen , template for VoidLinux
 <span id="span1" >January 2025</span>
 
 * * *
-
-
-
 
 ## fastfetch
 
