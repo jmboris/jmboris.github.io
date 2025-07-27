@@ -28,6 +28,27 @@ If you prefer to download the templates and compile yourself the files you can c
 
 * * *
 
+## jamesdsp - JDSP4Linux pipewire bin
+
+Template for VoidLinux
+
+version 2.7.0
+
+An audio effect processor for PipeWire and PulseAudio clients
+
+![jdsp4linux](./assets/images/jdsp4linux.png)
+
+[Github REPO](https://github.com/jmboris/jdsp4linux)
+
+[https://voidrepo.linuxnauta.com](https://voidrepo.linuxnauta.com/)  |  Binaries repo
+
+Developer
+[https://github.com/Audio4Linux/JDSP4Linux](https://github.com/Audio4Linux/JDSP4Linux)
+
+<span id="span1" >July 2025</span>
+
+* * *
+
 
 ## PipeWire 1.4.7
 
