@@ -150,7 +150,6 @@ Developer
 
 * * *
 
-
 ## television 
 
 Template for VoidLinux
@@ -205,17 +204,6 @@ Terminal-based real-time satellite tracking and orbit prediction
 
 Developer 
 [https://github.com/ShenMian/tracker/](https://github.com/ShenMian/tracker)
-
-
-<span id="span1" >July 2025</span>
-
-* * *
-
-## git 2.50.1 
-
-Voidlinux git 2.50.1 - binary xbps
-
-[https://voidrepo.linuxnauta.com](https://voidrepo.linuxnauta.com/)  |  Binaries repo
 
 
 <span id="span1" >July 2025</span>
@@ -321,7 +309,6 @@ fastfetch config file for Void Linux
 [REPO](https://github.com/jmboris/fastfetch)
 
 <span id="span1" >December 2024</span>
-
 
 
 * * *
