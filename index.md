@@ -192,7 +192,7 @@ Developer
 
 ## tracker
 
-tracker 0.1.5 , template for VoidLinux
+tracker 0.1.8 , template for VoidLinux
 
 Terminal-based real-time satellite tracking and orbit prediction
 
